@@ -1,7 +1,7 @@
 {
-  "name": "ebookseller",
+  "name": "gameseller",
   "version": "1.0.0",
-  "description": "App to sell ebook",
+  "description": "App to sell game",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
