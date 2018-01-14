@@ -9,7 +9,7 @@ This project is the result of my code-along at the end of the video series [Node
 * Body-Parser v1.18.2
 * Express v4.16.2
 * Express-Handlebars v3.0.0
-* Stripe v 5.4.0
+* Stripe v5.4.0
 
 ## Installing the Project
 To begin working with this project, perform the following tasks:
