@@ -18,10 +18,12 @@ To begin working with this project, perform the following tasks:
 1. `cd` into the folder of the cloned repo
 1. Run `yarn install` to install dependencies
 1. Add your stripe keys to a new file `config/keys_dev.js`
+
     ````
     module.exports = {
       stripePublishableKey:'_YOUR_OWN_PUBLISHABLE_KEY_',
       stripeSecretKey:'_YOUR_OWN_SECRET_KEY_'
     }
     ````
+    
 1. Run `node app.js`
