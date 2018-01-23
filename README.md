@@ -3,7 +3,6 @@ This project is the result of my code-along at the end of the video series [Node
 
 <p align="center">
     <img width="500" height="415" src="./public/img/homepage.png"><br>
-    <a href="https://young-stream-32209.herokuapp.com/" target="_blank">Node Stripe - Purchase Game</a>
 </p>
 
 ## Versions Used
